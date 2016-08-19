@@ -1,4 +1,4 @@
-<img align="center" src="readme_assets/FreeAgent Ruby Logo.png" alt="FreeAgent Ruby Logo">
+<img align="left" src="readme_assets/FreeAgent Ruby Logo.png" alt="FreeAgent Ruby Logo">
 
 This is test for demand. I've built a nice interface around FreeAgent's API in our Rails application and would gladly take the time to abstract it into a Gem that everyone can use if there is enough demand.
 
